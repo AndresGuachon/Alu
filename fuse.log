@@ -1,0 +1,17 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Xilinx/ALU_EJEMPLO/ALU_8BITS_isim_beh.exe -prj C:/Xilinx/ALU_EJEMPLO/ALU_8BITS_beh.prj work.ALU_8BITS 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Xilinx/ALU_EJEMPLO/ALU_8BITS.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture behavioral of entity alu_8bits
+Time Resolution for simulation is 1ps.
+Compiled 4 VHDL Units
+Built simulation executable C:/Xilinx/ALU_EJEMPLO/ALU_8BITS_isim_beh.exe
+Fuse Memory Usage: 36100 KB
+Fuse CPU Usage: 343 ms
